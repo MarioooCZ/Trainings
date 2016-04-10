@@ -1,3 +1,6 @@
 This is my test file
 
 after commit
+
+aa
+aa
